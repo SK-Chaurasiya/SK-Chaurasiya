@@ -1,7 +1,46 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Freelance projects with multiple companies, building websites, digital content, and AI-powered workflows.<br><br>🤝 I’m looking to collaborate on<br>Creative tech projects, open-source tools, and ideas that combine design, development, and automation.<br><br>🌱 I’m currently learning<br>New technologies, AI workflows, and better ways to improve quality and efficiency.<br><br>💬 Ask me about<br>Freelancing, web development, design, video editing, and AI tools.<br><br>⚡ Fun fact<br>I’m always learning and experimenting to sharpen my skills.
+---
+## 🔭 I’m currently working on<br> 
+* Freelance projects with multiple companies and individual clients <br>
+* Building digital experiences that combine design, development, and automation <br>
+* Websites, landing pages, and content systems focused on clarity and performance <br>
+* AI-assisted workflows for content creation, editing, and productivity <br>
 
+<br><br>
+## 🤝 I’m looking to collaborate on
+* Creative tech projects (web, UI, motion, AI tools) <br>
+* Open-source tools related to design, content, or automation <br>
+* Projects where strategy, creativity, and clean execution matter <br>
+* Early-stage ideas that need structure, direction, or execution
 
+<br><br>
+## 🧠 I’m looking for help with
+* Scaling freelance workflows efficiently <br>
+* Advanced AI integrations and custom automation <br>
+* Improving system design and long-term project architecture <br>
+* Learning from people who build products, not just features <br>
+
+<br><br>
+## 🌱 I’m currently learning
+* New design and development techniques to sharpen my craft <br>
+* AI workflows, prompt engineering, and creative automation <br>
+* Better storytelling through visuals, motion, and structure <br>
+* How to build things that are simple, fast, and meaningful <br>
+
+<br><br>
+## 💬 Ask me about
+* Freelancing and working with multiple companies <br>
+* Website development and design systems <br>
+* Graphics, video editing, and motion design <br>
+* Using AI tools to speed up creative work <br>
+* Building a personal brand as a creator or freelancer <br>
+
+<br><br>
+## ⚡ Fun fact
+* I’m obsessed with learning. If a tool, workflow, or idea can make work cleaner or smarter, I’ll probably test it. <br>
+* I believe good design and good thinking are more important than fancy tools. <br>
+
+#
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Whitehatdesigner) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WhiteHatdesigher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kn-chaurasiya-749897248) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Whitehatdesigner) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Whitehatdesgner) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deviliswaiting2478) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/WhiteHatDesigner) 
 
