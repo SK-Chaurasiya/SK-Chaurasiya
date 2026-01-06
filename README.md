@@ -1,5 +1,5 @@
 # 💫 About Me:
----
+
 ## 🔭 I’m currently working on<br> 
 * Freelance projects with multiple companies and individual clients <br>
 * Building digital experiences that combine design, development, and automation <br>
@@ -34,6 +34,8 @@
 ## ⚡ Fun fact
 * I’m obsessed with learning. If a tool, workflow, or idea can make work cleaner or smarter, I’ll probably test it. <br>
 * I believe good design and good thinking are more important than fancy tools. <br>
+
+-- 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Whitehatdesigner) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WhiteHatdesigher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kn-chaurasiya-749897248) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Whitehatdesigner) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Whitehatdesgner) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deviliswaiting2478) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/WhiteHatDesigner) 
